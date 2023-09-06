@@ -1,2 +1,2 @@
 # hover-img
-http://rabbi469.github/
+https://rabbi469.github.io/hover-img/
