@@ -1,0 +1,225 @@
+.container {
+    display: inline;
+}
+.flex {
+    display: flex;
+    column-gap: 10px;
+    justify-content: center;
+}
+.container h1{
+    color: black;
+    text-align: center;
+}
+/* =========drop1 img css ===========*/
+.drop1 {
+    display: inline;
+    position: relative;
+    cursor: pointer;    
+}
+.hoverimg1 {
+    display: none;
+    background-color: white;
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.2);
+    position: absolute;
+    margin-left: -85px;
+    margin-top: 6px;
+    transition: 0.4s ease;
+
+}
+.hoverimg1 .pra1 {
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+
+}
+.drop1:hover .hoverimg1 {
+    display: block;
+
+}
+
+/* =========drop2 img css============*/
+.drop2 {
+    display: inline;
+    position: relative;
+    cursor: pointer;    
+    
+}
+.hoverimg2 {
+    display: none;
+    background-color: white;
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.2);
+    position: absolute;
+    margin-left: -85px;
+    margin-top: 6px;
+    transition: 0.4s ease;
+
+}
+.hoverimg2 .pra2 {
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+}
+.drop2:hover .hoverimg2 {
+    display: block;
+}
+
+/* =========drop3 img css============*/
+
+.drop3 {
+    display: inline;
+    position: relative;
+    cursor: pointer;    
+    
+}
+.hoverimg3 {
+    display: none;
+    background-color: white;
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.2);
+    position: absolute;
+    margin-left: -85px;
+    margin-top: 6px;
+    transition: 0.4s ease;
+    
+}
+.hoverimg3 .pra3 {
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+}
+.drop3:hover .hoverimg3 {
+    display: block;
+}
+
+/* =========drop4 img css============*/
+
+.drop4 {
+    display: inline;
+    position: relative;
+    cursor: pointer;    
+    
+}
+.hoverimg4 {
+    display: none;
+    background-color: white;
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.2);
+    position: absolute;
+    margin-left: -85px;
+    margin-top: 6px;
+    transition: 0.4s ease;
+    
+}
+.hoverimg4 .pra4 {
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+}
+.drop4:hover .hoverimg4 {
+    display: block;
+}
+
+/* =========drop5 img css============*/
+
+.drop5 {
+    display: inline;
+    position: relative;
+    cursor: pointer;          
+    
+}
+.hoverimg5 {
+    display: none;
+    background-color: white;
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.2);
+    position: absolute;
+    margin-left: -85px;
+    margin-top: 6px;
+    transition: 0.4s ease;
+    
+}
+.hoverimg5 .pra5 {
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+}
+.drop5:hover .hoverimg5 {
+    display: block;
+}
+
+/* =========drop6 img css============*/
+
+.drop6 {
+    display: inline;
+    position: relative;
+    cursor: pointer;    
+    
+}
+.hoverimg6 {
+    display: none;
+    background-color: white;
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.2);
+    position: absolute;
+    margin-left: -85px;
+    margin-top: 6px;
+    transition: 0.4s ease;
+    
+}
+.hoverimg6 .pra6 {
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+}
+.drop6:hover .hoverimg6 {
+    display: block;
+}
+
+/* =========drop7 img css============*/
+
+.drop7 {
+    display: inline;
+    position: relative;
+    cursor: pointer;    
+    
+}
+.hoverimg7 {
+    display: none;
+    background-color: white;
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.2);
+    position: absolute;
+    margin-left: -85px;
+    margin-top: 6px;
+    transition: 0.4s ease;
+    
+}
+.hoverimg7 .pra7 {
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+}
+.drop7:hover .hoverimg7 {
+    display: block;
+}
+
+/* =========drop8 img css============*/
+
+.drop8 {
+    display: inline;
+    position: relative;
+    cursor: pointer;
+}
+.hoverimg8 {
+    display: none;
+    background-color: white;
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.2);
+    position: absolute;
+    margin-left: -85px;
+    margin-top: 6px;
+    transition: 0.4s ease;
+    
+}
+.hoverimg8 .pra8 {
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+}
+.drop8:hover .hoverimg8 {
+    display: block;
+}
